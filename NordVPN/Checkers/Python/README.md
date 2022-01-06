@@ -16,7 +16,7 @@ python3 ZNordVPNChecker.py
 # 🩸┃CREDITS AND CONTRIBUTORS
 
 <details>
-  <summary>Blxxded/summary>
+  <summary>Blxxded</summary>
   - Discord: <a href="https://discord.com/users/847117740951076874">Blxxded#0303</a>
   - GitHub: <a href="https://github.com/zBlxxded">zBlxxded</a>
   - Website: <a href="https://blxxded.com">https://blxxded.com</a>
