@@ -1,4 +1,4 @@
-# <img src="https://github.com/zBlxxded/CheckersNGenerators/blob/main/thumbnails/js-discord-token-checker.png">
+# <img src="https://github.com/zBlxxded/CheckersNGenerators/blob/main/thumbnails/js-discord-checker.png">
 # 🤔┃¿What is Discord-Token-Checker?
 A script written in javascript, used to check discord tokens saved in tokens.txt, to use download/clone this repository.
 
