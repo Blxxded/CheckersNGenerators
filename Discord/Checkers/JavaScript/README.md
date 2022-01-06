@@ -11,7 +11,7 @@ npm install fs
 
 __Usage:__
 ```bash
-nodejs ZDiscordTokenChecker.js
+nodejs ZDiscordChecker.js
 ```
 
 # 👀┃PREVIEW
