@@ -2,6 +2,11 @@
 # 🤔┃¿What is NordVPN-Checker?
 A script written in python, used to check NordVPN accounts saved in a file, <a href="https://github.com/zBlxxded/CheckersNGenerators/blob/main/NordVPN/Checkers/Python/ZNordVPNChecker.py">click here</a> to download.
 
+__Dependencies:__
+```bash
+python3 -m pip install requests
+```
+
 __Usage:__
 ```bash
 python3 ZNordVPNChecker.py
