@@ -10,7 +10,7 @@ python3 ZNordVPNChecker.py
 # 👀┃PREVIEW
 <details>
 	<summary>CLICK HERE TO PREVIEW</summary>
-	<img src="https://github.com/zBlxxded/NordVPN-Checker/blob/main/preview.png">
+	<img src="https://github.com/zBlxxded/CheckersNGenerators/blob/main/NordVPN/Checkers/Python/preview.png">
 </details>
 
 # 🩸┃CREDITS AND CONTRIBUTORS
